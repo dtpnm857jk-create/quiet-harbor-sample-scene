@@ -1,0 +1,30 @@
+Quiet Harbor Props
+Copyright 2026 Lanternbay Studio
+
+Permission is granted, free of charge, to use, copy, modify, and
+incorporate these assets into commercial or non-commercial games,
+applications, videos, streams, educational materials, and other
+original works.
+
+Conditions
+----------
+1. Credit "Lanternbay Studio" in your credits, description, or an
+   equivalent notice. A short line such as:
+
+     Harbor props by Lanternbay Studio
+
+   is enough.
+
+2. Do not redistribute the original files, or a lightly modified
+   copy, as a standalone asset pack, icon set, or stock collection.
+
+3. Do not claim authorship of the original assets.
+
+4. No trademark rights are granted. The name "Lanternbay Studio"
+   remains with the publisher.
+
+5. The assets are provided "as is", without warranty of any kind.
+
+These files are original vector drawings created in code. They do
+not include AI-generated images, stock photographs, or third-party
+trademarks.
