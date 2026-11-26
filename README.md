@@ -1,10 +1,10 @@
 # Quiet Harbor sample scene
 
-A small interactive harbor scene that uses free props from [Quiet Harbor Props](https://csvclinic.itch.io/quiet-harbor-props) by Lanternbay Studio.
+![Short animation of the Quiet Harbor sample scene](preview.gif)
+
+A small interactive harbor scene that uses free props from [Quiet Harbor Props](https://csvclinic.itch.io/quiet-harbor-props) by Lanternbay Studio. The pack lives in the [quiet-harbor-props](https://github.com/dtpnm857jk-create/quiet-harbor-props) repository.
 
 Use the **arrow keys** or **WASD** to row the boat along the water.
-
-![Screenshot of the sample harbor scene](screenshot.png)
 
 ## How to run
 
